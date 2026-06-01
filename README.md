@@ -3,7 +3,7 @@ This repository houses the KiCad source files for the G2 Nano microcontroller de
 
 ![Rendering](images/rendering.png)
 
-The G2 Nano is powered by a record-breaking 1 GHz Arm Cortex-M7 processor, combining the performance of an application processor with real-time determinism. Purpose-built for robotics R&D, the board integrates dual-band Wi-Fi, an inertial measurement unit, and an on-board closed-loop motion controller.
+The G2 Nano is powered by a record-breaking 1 GHz Arm Cortex-M7 processor, combining the performance of an application processor with real-time determinism. Purpose-built for robotics R&D, the board integrates dual-band Wi-Fi, an inertial measurement unit, and an on-board closed-loop motion controller.  Which will be used to control my Robot
 
 ## Overview
 * This PCB was designed using KiCad 10 and it's standard library of components.
